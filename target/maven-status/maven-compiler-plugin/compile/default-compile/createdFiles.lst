@@ -1,0 +1,12 @@
+veiculo\Locacao.class
+app\Pessoa\Cliente.class
+veiculo\Lancha.class
+app\Pessoa\Funcionario.class
+app\Pessoa\Pessoa.class
+veiculo\Helicoptero.class
+veiculo\Moto.class
+veiculo\Veiculo.class
+app\Pessoa\Main.class
+veiculo\Carro.class
+veiculo\Ultraleve.class
+veiculo\JetSki.class
